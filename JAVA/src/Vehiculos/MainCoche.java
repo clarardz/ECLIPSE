@@ -1,5 +1,4 @@
-package Ejercicios;
-
+package Vehiculos;
 
 public class MainCoche {
 
@@ -29,5 +28,8 @@ public class MainCoche {
 		opel.desacelerar(true);
 		System.out.println(opel.getVelocidad());
 		
-	}
-}
+		//Ejemplo de POLIORFISMO
+		Bicicleta bh = new Bicicleta();
+		Coche honda = new Coche();
+		Avion boeing = new Avion();	
+}}

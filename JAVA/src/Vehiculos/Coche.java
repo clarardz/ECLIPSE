@@ -1,4 +1,4 @@
-package Ejercicios;
+package Vehiculos;
 
 public class Coche {
 	//Constructores
