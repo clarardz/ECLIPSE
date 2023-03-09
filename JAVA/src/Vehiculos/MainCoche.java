@@ -32,4 +32,5 @@ public class MainCoche {
 		Bicicleta bh = new Bicicleta();
 		Coche honda = new Coche();
 		Avion boeing = new Avion();	
-}}
+}
+	}
